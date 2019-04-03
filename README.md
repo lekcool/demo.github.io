@@ -1,5 +1,5 @@
 # [Lek - Portfolio](https://lekcool.github.io/)
-ฝลงานที่ผ่านมาของผมเอง
+ผลงานที่ผ่านมาของผมเอง
 
 ## Copyright and License
 
